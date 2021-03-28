@@ -1,0 +1,1 @@
+venv\Scripts\python.exe main.py "https://www.kommersant.ru/doc/4742591"
